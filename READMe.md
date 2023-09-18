@@ -1,6 +1,6 @@
 # Test MyCover.ai Node.js SDK
 
-A test project for 
+A test project for the [lab-mca-nodejs-sdk](https://github.com/Glitzyken/lab-mca-nodejs-sdk)
 
 ## Running locally
 
